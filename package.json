@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/node": "^7.0.5",
+    "edge-js": "^22.9.0",
+    "js-yaml": "^4.1.0",
+    "yaml": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "typescript": "^5.6.3"
+  }
+}

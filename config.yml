@@ -1,0 +1,10 @@
+runStartBaseCode: "
+        using System.Collections.Generic; \n
+        using System.Threading.Tasks; \n
+
+        public class Startup \n
+        { \n
+            public async Task<object> Invoke(object input) \n
+            {\n
+"
+runEndBaseCode: "} \n }"
