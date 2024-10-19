@@ -12,5 +12,5 @@ const rc = require('./index.js');
 ```
 
 ## use by
-edge-js <br>
-js-yaml <br>
+<strong>edge-js</strong> <br>
+<strong>js-yaml</strong> <br>
